@@ -7,7 +7,7 @@
 
 
 
-- The Home Lighting Processor (HLP) operates as follows:
+- The Home Automation Processor operates as follows:
 
 ### Input Instruction Registers:
 - Five 32-bit input registers store control instructions.
