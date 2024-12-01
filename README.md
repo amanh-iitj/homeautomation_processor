@@ -1,4 +1,4 @@
-# Digital Home Automation Processor
+# Design Of Digital Home Automation Processor
 
 
 ## General Block Diagram Description
