@@ -1,4 +1,4 @@
-# Home Automation Processor
+# Digital Home Automation Processor
 
 
 ## General Block Diagram Description
@@ -7,20 +7,20 @@
 
 
 
-- The Home Automation Processor operates as follows:
+- The Digital Home Automation Processor operates as follows:
 
-### Input Instruction Registers:
+### a) Input Instruction Registers:
 - Five 32-bit input registers store control instructions.
 
-### Input Control Logic:
+### b) Input Control Logic:
 - A program counter sequentially selects input instructions.
 - The selected instruction is passed to a 32-bit register.
 
-### Comparator:
+### c) Comparator:
 - The instruction is compared against threshold values.
 
   
-### Output Control Logic:
+### d) Output Control Logic:
 - Based on comparator results, two outputs are generated:
 - 16-bit Intensity Change Instruction: Adjusts lighting brightness.
 - 16-bit Color Change Instruction: Modifies the color of the lighting.
