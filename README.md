@@ -1,16 +1,10 @@
 # Design Of Digital Home Automation Processor
 
 
-## General Block Diagram Description
-
-![Screenshot 2024-12-01 211832](https://github.com/user-attachments/assets/e9cc11b4-dfd2-4383-8084-161bb1bdb857)
-
-
-
 - The Digital Home Automation Processor operates as follows:
 
 ### a) Input Instruction Registers:
-- Five 32-bit input registers store control instructions.
+- Four 32-bit input registers store control instructions.
 
 ### b) Input Control Logic:
 - A program counter sequentially selects input instructions.
@@ -31,37 +25,40 @@
 
 ### Elaborated Design
 
-![Screenshot 2024-12-01 212327](https://github.com/user-attachments/assets/ec3bc050-bcac-4360-ab71-f73f595198f1)
+![Screenshot 2024-12-24 222840](https://github.com/user-attachments/assets/6b28a48a-3a84-4561-96bd-73d9d384d0c9)
+
 
 
 ### Output Waveform
 
-![Screenshot 2024-12-01 172741](https://github.com/user-attachments/assets/3a336b4d-e547-4b72-8e09-9f0376c1c4b4)
+![Screenshot 2024-12-24 222813](https://github.com/user-attachments/assets/9d645609-fed5-48f4-b4bb-7c9c6eabbd49)
+
 
 
 
 
 ### Synthesized Schematic
 
-![Screenshot 2024-12-14 181410](https://github.com/user-attachments/assets/7880999c-5244-415d-b8d6-cd0ddeab9417)
+![Screenshot 2024-12-24 222948](https://github.com/user-attachments/assets/3290eeb4-ecee-4499-8a67-896408ef46b5)
 
-![Screenshot 2024-12-14 181435](https://github.com/user-attachments/assets/2822ba59-4c2d-4c12-bd97-af00978ebb63)
+![Screenshot 2024-12-24 223000](https://github.com/user-attachments/assets/1efe7e14-53dc-4ef1-bcb6-baccfa7277c6)
 
-![Screenshot 2024-12-14 181503](https://github.com/user-attachments/assets/42af8b0a-5f63-4abb-9f05-a38faf3f9b11)
-
+![Screenshot 2024-12-24 223019](https://github.com/user-attachments/assets/8a632ee0-6c5d-4bd7-8483-cb969241fede)
 
 
 
 
 ### Synthesized Design
 
-![Screenshot 2024-12-01 212356](https://github.com/user-attachments/assets/3c8d59be-bb75-4ffe-b449-ec4e175f7da6)
+![Screenshot 2024-12-24 222859](https://github.com/user-attachments/assets/0f943113-7ecc-49bc-871c-24ebc59980e7)
 
-![Screenshot 2024-12-01 212411](https://github.com/user-attachments/assets/49284b1d-011c-4aa5-94ff-b2a446a749ee)
+![Screenshot 2024-12-24 222915](https://github.com/user-attachments/assets/ed57df09-8a7b-4a9c-8a66-fac7bf280d38)
 
-![Screenshot 2024-12-01 212424](https://github.com/user-attachments/assets/21cd3968-e218-4133-90d8-8613b2b5038b)
-
-![Screenshot 2024-12-01 212436](https://github.com/user-attachments/assets/f575b295-95ea-4a71-9d72-4c054d50b041)
+![Screenshot 2024-12-24 222935](https://github.com/user-attachments/assets/2fc479a8-749f-4c3d-aaac-caa737277491)
 
 
+### Power Report
+
+
+![Screenshot 2024-12-24 223035](https://github.com/user-attachments/assets/582149f1-1f7a-4732-a06f-26070541b696)
 
