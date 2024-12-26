@@ -55,10 +55,3 @@
 ![Screenshot 2024-12-24 222915](https://github.com/user-attachments/assets/ed57df09-8a7b-4a9c-8a66-fac7bf280d38)
 
 ![Screenshot 2024-12-24 222935](https://github.com/user-attachments/assets/2fc479a8-749f-4c3d-aaac-caa737277491)
-
-
-### Power Report
-
-
-![Screenshot 2024-12-24 223035](https://github.com/user-attachments/assets/582149f1-1f7a-4732-a06f-26070541b696)
-
